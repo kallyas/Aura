@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Aura app icon.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "Aura app icon2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
